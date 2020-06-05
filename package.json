@@ -1,0 +1,24 @@
+{
+  "name": "guess_game",
+  "version": "1.0.0",
+  "description": "Just a simple guess game to mess around with Node CLI",
+  "main": "guess.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lionel Lafont",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "figlet": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Letitbe133/guess_game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Letitbe133/guess_game/issues"
+  },
+  "homepage": "https://github.com/Letitbe133/guess_game#readme"
+}
